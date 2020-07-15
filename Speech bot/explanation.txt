@@ -1,0 +1,12 @@
+A speech bot that understands information when presented with statements and can retell that information when asked.
+For example, telling it:
+"Mary is a purple duck",
+"Adam is a brown fox"
+and
+"John is a brown duck"
+then asking
+"Who is brown?"
+will return ["John","Adam"].
+
+semantics is the important file here.
+This bot uses natural language processing techniques to work.
